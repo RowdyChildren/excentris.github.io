@@ -1,7 +1,8 @@
 # general configuration
 url: http://excentris.net
 baseurl: ''
-
+gems:
+  - jekyll-redirect-from
 # compass configuration
 compass:
   # an avatar or logo (optional)
